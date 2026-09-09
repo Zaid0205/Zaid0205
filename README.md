@@ -67,18 +67,6 @@ I build production grade AI systems that actually ship, not just academic demos.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaid0205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=8b949e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid0205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=8b949e)
-
-</div>
-
----
-
 <div align="center">
 
 *"Building AI systems that ship, scale, and solve real problems."*
