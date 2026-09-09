@@ -2,7 +2,7 @@
 
 # Hey, I'm Zaid Ahmed 👋
 
-### AI/ML Engineer · Agentic AI Developer · Final-Year BS(AI) @ FAST NUCES Lahore
+### AI/ML Engineer · Agentic AI Developer · BS(AI), FAST NUCES
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00e5ff?style=for-the-badge&logoColor=white)](https://zaid0205.github.io/zaid-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-ahmed-0aa499231)
@@ -15,14 +15,13 @@
 
 ## 🧠 About Me
 
-I'm an AI-first final-year student at **FAST NUCES Lahore** passionate about building production-grade AI systems that actually ship — not just academic demos.
+I build production grade AI systems that actually ship, not just academic demos.
 
-- 🤖 Building **agentic AI workflows**, **LLM-powered pipelines**, and **RAG systems**
-- 👁️ Experienced in **Computer Vision** — YOLOv8, ResNet, thermal imaging, CVAT annotation
-- ⚙️ Love automating everything with **n8n**, **LangChain**, and smart API integrations
-- 💼 **Level 1 Fiverr Seller** — delivered 10+ projects with 5★ client satisfaction
-- 📍 Based in **Lahore, Pakistan** · Open to remote opportunities worldwide
-- 🎓 Graduating **2026** with BS (Artificial Intelligence)
+- 🤖 Building **Agentic AI workflows**, **LLM powered pipelines**, and **RAG systems**
+- 👁️ Experienced in **Computer Vision**: YOLOv8, ResNet, thermal imaging, CVAT annotation
+- ⚙️ Automating workflows with **n8n**, **LangChain**, and **API Integrations**
+- 💼 Level 1 Fiverr Seller, 10+ projects delivered with 5 star client satisfaction
+- 📍 Based in **Lahore, Pakistan**, open to remote opportunities worldwide
 
 ---
 
@@ -31,10 +30,10 @@ I'm an AI-first final-year student at **FAST NUCES Lahore** passionate about bui
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🤖 **AI Job Hunting Agent** | Automated n8n pipeline that scrapes LinkedIn daily, uses Gemini AI to tailor resumes, generates LaTeX PDFs, and emails daily reports | Python · n8n · Gemini API · Apify · Supabase |
-| 🩺 **Explainable Cancer Diagnosis** | Multi-modal AI combining MRI/CT + clinical data across 3 cancer types — 0.77 accuracy with SHAP & LIME explainability | PyTorch · ResNet-18 · XGBoost · SHAP · LIME |
-| 💬 **University RAG Chatbot** | High-performance RAG chatbot with FAISS vector search and Gemini API — hallucination-free grounded answers | Python · FAISS · Sentence Transformers · Gemini |
+| 🩺 **Explainable Cancer Diagnosis** | Multi-modal AI combining MRI/CT and clinical data across 3 cancer types, 0.77 accuracy with SHAP and LIME explainability | PyTorch · ResNet-18 · XGBoost · SHAP · LIME |
+| 💬 **University RAG Chatbot** | High-performance RAG chatbot with FAISS vector search and Gemini API for hallucination-free grounded answers | Python · FAISS · Sentence Transformers · Gemini |
 | 📚 **StudyBuddy AI Platform** | LangChain agent system for autonomous quiz generation, summarization, and personalized study planning | Python · LangChain · OpenAI API |
-| 🔥 **Thermal Annotation Pipeline** | Annotated 500+ infrared frames in CVAT, automated n8n pipeline for COCO-format dataset export | Python · CVAT · n8n · COCO Format |
+| 🔥 **Thermal Annotation Pipeline** |Annotated 500+ infrared frames in CVAT, automated n8n pipeline for COCO-format dataset export | Python · CVAT · n8n · COCO Format |
 
 ---
 
