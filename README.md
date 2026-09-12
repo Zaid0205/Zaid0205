@@ -7,8 +7,8 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00e5ff?style=for-the-badge&logoColor=white)](https://zaid0205.github.io/zaid-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-ahmed-0aa499231)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xaidahmed17@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Level_1_Seller_⭐-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
-
+<!-- [![Fiverr](https://img.shields.io/badge/Fiverr-Level_1_Seller_⭐-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com) -->
+ 
 </div>
 
 ---
