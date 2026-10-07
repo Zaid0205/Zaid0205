@@ -16,9 +16,8 @@
 
 I build LLM systems that are tested, measured and grounded in real data.
 
-- 🤖 Building **RAG pipelines**, **multi-agent systems** with LangGraph, and **LLM evaluation** with RAGAS, DeepEval, hit@k and MRR
-- 🧪 Care about engineering rigor: **Pydantic validation**, **pytest** with fakes for every external service, clean provider interfaces
-- 💼 Delivered **10+ production AI applications** for international clients as a freelance AI engineer, with 5-star ratings on every project
+- Building **RAG pipelines**, **multi-agent systems** with LangGraph, and **LLM evaluation** with RAGAS and DeepEval
+- Care about engineering rigor: **Pydantic validation**, **pytest** with fakes for every external service, clean provider interfaces
 - 🎓 BS Artificial Intelligence, FAST-NUCES (2026)
 - 📍 Based in **Lahore, Pakistan**, open to on-site, relocation and remote roles
 
